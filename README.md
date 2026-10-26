@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there 👋 I'm Zayan
 
-<!--
-**zayanyt12346/zayanyt12346** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an operations and workflow enthusiast based in Kolkata, passionate about digital efficiency, process optimization, and leveraging modern automation tools to solve real-world bottlenecks. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I Work With
+* **Workflow Automation:** n8n, low-code/no-code pipelines, data sourcing
+* **Operations & Tools:** Git, GitHub version control, command-line environments
+* **Focus Areas:** Digital operations, task management, process optimization, and tech-driven productivity
+
+---
+
+### 📈 Current Focus
+* Exploring how businesses and teams can scale operations using smart workflow automations.
+* Building and organizing local projects via `career-ops` and command-line tools.
+* Constantly expanding my skillset in modern digital tools and administrative coordination.
+
+📫 **Let's Connect:** [LinkedIn Profile](https://www.linkedin.com/in/md-zayan-ali-5166b9439/)
